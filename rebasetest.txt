@@ -2,3 +2,4 @@ Hello,
 This is created to test rebase,squash,merge
 This is second line and commit---2
 This is second line and commit---3
+This line is adding from another developer--1
