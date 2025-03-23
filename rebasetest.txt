@@ -1,2 +1,3 @@
 Hello,
 This is created to test rebase,squash,merge
+This is second line and commit---2
