@@ -1,0 +1,2 @@
+Hello,
+This is created to test rebase,squash,merge
